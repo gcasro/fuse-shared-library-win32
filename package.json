@@ -1,30 +1,30 @@
 {
-  "name": "fuse-shared-library-win32",
-  "version": "0.1.0",
-  "description": "A module containing path to the DLL needed to run WinFsp on Windows (Work in progress).",
-  "main": "index.js",
-  "scripts": {
-    "test": "standard"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/fuse-friends/fuse-shared-library-linux.git"
-  },
-  "keywords": [
-    "fuse",
-    "shared",
-    "library",
-    "prebuild",
-    "win32",
-    "windows"
-  ],
-  "author": "Raymond Hammarling <raykay.rh@gmail.com>",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/raymond-h/fuse-shared-library-win32/issues"
-  },
-  "homepage": "https://github.com/raymond-h/fuse-shared-library-win32#readme",
-  "devDependencies": {
-    "standard": "^12.0.1"
-  }
+    "name": "@gcas/fuse-shared-library-win32",
+    "version": "0.1.0",
+    "description": "A module containing path to the DLL needed to run WinFsp on Windows (Work in progress).",
+    "main": "index.js",
+    "scripts": {
+        "test": "standard"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/gcasro/fuse-shared-library-linux.git"
+    },
+    "keywords": [
+        "fuse",
+        "shared",
+        "library",
+        "prebuild",
+        "win32",
+        "windows"
+    ],
+    "author": "Raymond Hammarling <raykay.rh@gmail.com>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/gcasro/fuse-shared-library-win32/issues"
+    },
+    "homepage": "https://github.com/gcasro/fuse-shared-library-win32#readme",
+    "devDependencies": {
+        "standard": "^12.0.1"
+    }
 }
